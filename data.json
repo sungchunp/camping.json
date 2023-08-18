@@ -4,70 +4,80 @@
     "title": "4-6인용 벨형 텐트",
     "content": "벨형 텐트",
     "price": 800000,
-    "detail" : "4-6인용 벨형 텐트_상세페이지"
+    "detail" : "4-6인용 벨형 텐트_상세페이지",
+    "keyword" : "tenttarp"
   },
   {
     "id": 1,
     "title": "덥다 시원하게 해달라",
     "content": "하계 텐트",
     "price": 150000,
-    "detail" : "덥다 시원하게 해달라_상세페이지"
+    "detail" : "덥다 시원하게 해달라_상세페이지",
+    "keyword" : "tenttarp"
   },
   {
     "id": 2,
     "title": "날씨 좋네여",
     "content": "춘추 텐트",
     "price": 400000,
-    "detail" : "날씨 좋네여_상세페이지"
+    "detail" : "날씨 좋네여_상세페이지",
+    "keyword" : "tenttarp"
   },
   {
     "id": 3,
     "title": "살아서 보자",
     "content": "동계 텐트",
     "price": 1200000,
-    "detail" : "살아서 보자_상세페이지"
+    "detail" : "살아서 보자_상세페이지",
+    "keyword" : "tenttarp"
   },
   {
     "id": 4,
     "title": "좁지만 아늑한 텐트",
     "content": "백패킹 텐트",
     "price": 120000,
-    "detail" : "좁지만 아늑한_상세페이지"
+    "detail" : "좁지만 아늑한_상세페이지",
+    "keyword" : "tenttarp"
   },
   {
     "id": 5,
     "title": "1인용이라니까",
     "content": "백패킹 텐트",
     "price": 248000,
-    "detail" : "1인용이라니까_상세페이지"
+    "detail" : "1인용이라니까_상세페이지",
+    "keyword" : "tenttarp"
   },
   {
     "id": 6,
     "title": "디럭스인가",
     "content": "거실형 텐트",
     "price": 1200000,
-    "detail" : "디럭스인가_상세페이지"
+    "detail" : "디럭스인가_상세페이지",
+    "keyword" : "tenttarp"
   },
   {
     "id": 7,
     "title": "헥사타프",
     "content": "타프",
     "price": 420000,
-    "detail" : "헥사타프_상세페이지"
+    "detail" : "헥사타프_상세페이지",
+    "keyword" : "tenttarp"
   },
   {
     "id": 8,
     "title": "렉타타프",
     "content": "타프",
     "price": 790000,
-    "detail" : "렉타타프_상세페이지"
+    "detail" : "렉타타프_상세페이지",
+    "keyword" : "tenttarp"
   },
   {
     "id": 9,
     "title": "비막아 빨리",
     "content": "레인타프",
     "price": 100000,
-    "detail" : "비막아 빨리_상세페이지"
+    "detail" : "비막아 빨리_상세페이지",
+    "keyword" : "tenttarp"
   },
 
   {
