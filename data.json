@@ -149,293 +149,335 @@
     "title": "롱릴렉스 체어",
     "content": "의자",
     "price": 60000,
-    "detail" : "롱릴렉스 체어_상세페이지"
+    "detail" : "롱릴렉스 체어_상세페이지",
+     "category" : "chair"
   },
   {
     "id": 19,
     "title": "원터치 폴딩 체어",
     "content": "의자",
     "price": 40000,
-    "detail" : "원터치 폴딩 체어_상세페이지"
+    "detail" : "원터치 폴딩 체어_상세페이지",
+     "category" : "chair"
   },
   {
     "id": 20,
     "title": "릴렉스 스테인리스 폼 체어",
     "content": "체어",
     "price": 90000,
-    "detail" : "릴렉스 스테인리스 폼 체어_상세페이지"
+    "detail" : "릴렉스 스테인리스 폼 체어_상세페이지",
+     "category" : "chair"
   },
   {
     "id": 21,
     "title": "폴딩벤치",
     "content": "체어",
     "price": 58000,
-    "detail" : "폴딩벤치_상세페이지"
+    "detail" : "폴딩벤치_상세페이지",
+     "category" : "chair"
   },
   {
     "id": 22,
     "title": "텍티컬 체어",
     "content": "체어",
     "price": 160000,
-    "detail" : "텍티컬 체어_상세페이지"
+    "detail" : "텍티컬 체어_상세페이지",
+     "category" : "chair"
   },
   {
     "id": 23,
     "title": "스피드 스툴",
     "content": "체어",
     "price": 35000,
-    "detail" : "스피트 스툴_상세페이지"
+    "detail" : "스피트 스툴_상세페이지",
+     "category" : "chair"
   },
   {
     "id": 24,
     "title": "피크닉 체어",
     "content": "체어",
     "price": 40000,
-    "detail" : "피크닉 체어_상세페이지"
+    "detail" : "피크닉 체어_상세페이지",
+     "category" : "chair"
   },
   {
     "id": 25,
     "title": "미니 릴렉스 체어",
     "content": "체어",
     "price": 30000,
-    "detail" : "미니 릴렉스 체어_상세페이지"
+    "detail" : "미니 릴렉스 체어_상세페이지",
+     "category" : "chair"
   },
   {
     "id": 26,
     "title": "로우체어",
     "content": "체어",
     "price": 40000,
-    "detail" : "로우체어_상세페이지"
+    "detail" : "로우체어_상세페이지",
+     "category" : "chair"
   },
   {
     "id": 27,
     "title": "와이드 BBQ 체어",
     "content": "체어",
     "price": 29800,
-    "detail" : "와이드 BBQ 체어_상세페이지"
+    "detail" : "와이드 BBQ 체어_상세페이지",
+     "category" : "chair"
   },
   {
     "id": 28,
     "title": "알파슬림 체어",
     "content": "체어",
     "price": 15000,
-    "detail" : "알파슬림 체어_상세페이지"
+    "detail" : "알파슬림 체어_상세페이지",
+     "category" : "chair"
   },
   {
     "id": 29,
     "title": "LED 핸드램프",
     "content": "조명",
     "price": 90000,
-    "detail" : "LED 핸드램프_상세페이지"
+    "detail" : "LED 핸드램프_상세페이지",
+     "category" : "lamp"
   },
   {
     "id": 30,
     "title": "LED 크레모아",
     "content": "조명",
     "price": 150000,
-    "detail" : "LED 크레모아_상세페이지"
+    "detail" : "LED 크레모아_상세페이지",
+     "category" : "lamp"
   },
   {
     "id": 31,
     "title": "루메나 램프 조명",
     "content": "조명",
     "price": 80000,
-    "detail" : "루메나 램프 조명_상세페이지"
+    "detail" : "루메나 램프 조명_상세페이지",
+     "category" : "lamp"
   },
   {
     "id": 32,
     "title": "LED 해드랜턴",
     "content": "조명",
     "price": 100000,
-    "detail" : "LED 해드랜턴_상세페이지"
+    "detail" : "LED 해드랜턴_상세페이지",
+     "category" : "lamp"
   },
   {
     "id": 33,
     "title": "비바로드 LED 스트링가드",
     "content": "조명",
     "price": 30000,
-    "detail" : "비바로드 LED 스트링가드_상세페이지"
+    "detail" : "비바로드 LED 스트링가드_상세페이지",
+     "category" : "lamp"
   },
   {
     "id": 34,
     "title": "가스랜턴",
     "content": "조명",
     "price": 45000,
-    "detail" : "가스랜턴_상세페이지"
+    "detail" : "가스랜턴_상세페이지",
+     "category" : "lamp"
   },
   {
     "id": 35,
     "title": "호롱불",
     "content": "조명",
     "price": 40000,
-    "detail" : "호롱불_상세페이지"
+    "detail" : "호롱불_상세페이지",
+     "category" : "lamp"
   },
   {
     "id": 36,
     "title": "LED 캡라이트 캡온",
     "content": "조명",
     "price": 30000,
-    "detail" : "LED 캡라이트 캡옵_상세페이지"
+    "detail" : "LED 캡라이트 캡옵_상세페이지",
+     "category" : "lamp"
   },
   {
     "id": 37,
     "title": "LED 후레쉬",
     "content": "조명",
     "price": 85000,
-    "detail" : "LED 후레쉬_상세페이지"
+    "detail" : "LED 후레쉬_상세페이지",
+     "category" : "lamp"
   },
   {
     "id": 38,
     "title": "바베큐 그릴",
     "content": "화로",
     "price": 60000,
-    "detail" : "바베큐 그릴_상세페이지"
+    "detail" : "바베큐 그릴_상세페이지",
+     "category" : "brazier"
   },
   {
     "id": 39,
     "title": "헥사 바베큐 그릴",
     "content": "화로",
     "price": 450000,
-    "detail" : "헥사 바베규 그릴_상세페이지"
+    "detail" : "헥사 바베규 그릴_상세페이지",
+     "category" : "brazier"
   },
   {
     "id": 40,
     "title": "레귤레이터 스토브",
     "content": "화로",
     "price": 120000,
-    "detail" : "레귤레이터 스토브_상세페이지"
+    "detail" : "레귤레이터 스토브_상세페이지",
+     "category" : "brazier"
   },
   {
     "id": 41,
     "title": "디펜스 스토브",
     "content": "화로",
     "price": 50000,
-    "detail" : "디펜스 스토브_상세페이지"
+    "detail" : "디펜스 스토브_상세페이지",
+     "category" : "brazier"
   },
   {
     "id": 42,
     "title": "윈드마스터 스토브",
     "content": "화로",
     "price": 170000,
-    "detail" : "윈드마스터 스토브_상세페이지"
+    "detail" : "윈드마스터 스토브_상세페이지",
+     "category" : "brazier"
   },
   {
     "id": 43,
     "title": "자이언트 스토브",
     "content": "화로",
     "price": 220000,
-    "detail" : "자이언트 스토브_상세페이지"
+    "detail" : "자이언트 스토브_상세페이지",
+     "category" : "brazier"
   },
   {
     "id": 44,
     "title": "트윈 스토브",
     "content": "화로",
     "price": 150000,
-    "detail" : "트윈 스토브_상세페이지"
+    "detail" : "트윈 스토브_상세페이지",
+     "category" : "brazier"
   },
   {
     "id": 45,
     "title": "미니 버너",
     "content": "화로",
     "price": 45000,
-    "detail" : "미니 버너_상세페이지"
+    "detail" : "미니 버너_상세페이지",
+     "category" : "brazier"
   },
   {
     "id": 46,
     "title": "참숯",
     "content": "숯",
     "price": 30000,
-    "detail" : "참숯_상세페이지"
+    "detail" : "참숯_상세페이지",
+     "category" : "brazier"
   },
   {
     "id": 47,
     "title": "참나무 장작",
     "content": "장작",
     "price": 12000,
-    "detail" : "참나무 장작_상세페이지"
+    "detail" : "참나무 장작_상세페이지",
+     "category" : "brazier"
   },
   {
     "id": 48,
     "title": "이소가스",
     "content": "이소가스",
     "price": 3000,
-    "detail" : "이소가스_상세페이지"
+    "detail" : "이소가스_상세페이지",
+     "category" : "brazier"
   },
   {
     "id": 49,
     "title": "부탄가스",
     "content": "부탄가스",
     "price": 2000,
-    "detail" : "부탄가스_상세페이지"
+    "detail" : "부탄가스_상세페이지",
+     "category" : "brazier"
   },
   {
     "id": 50,
     "title": "고체연료",
     "content": "고체연료",
     "price": 7500,
-    "detail" : "고체연료_상세페이지"
+    "detail" : "고체연료_상세페이지",
+     "category" : "brazier"
   },
   {
     "id": 51,
     "title": "오로라 파이어",
     "content": "가루",
     "price": 4000,
-    "detail" : "오로라 파이어_상세페이지"
+    "detail" : "오로라 파이어_상세페이지",
+     "category" : "brazier"
   },
   {
     "id": 52,
     "title": "멀티팬",
     "content": "선풍기",
     "price": 130000,
-    "detail" : "멀티팬_상세페이지"
+    "detail" : "멀티팬_상세페이지",
+     "category" : "segoods"
   },
   {
     "id": 53,
     "title": "크레모아 서큘레이터",
     "content": "서큘레이터",
     "price": 48000,
-    "detail" : "크레모아 서큘레이터_상세페이지"
+    "detail" : "크레모아 서큘레이터_상세페이지",
+     "category" : "segoods"
   },
   {
     "id": 54,
     "title": "아이스쿨러",
     "content": "쿨러",
     "price": 180000,
-    "detail" : "아이스쿨러_상세페이지"
+    "detail" : "아이스쿨러_상세페이지",
+     "category" : "segoods"
   },
   {
     "id": 55,
     "title": "캠핑 냉동고",
     "content": "냉동고",
     "price": 700000,
-    "detail" : "캠핑 냉동고_상세페이지"
+    "detail" : "캠핑 냉동고_상세페이지",
+     "category" : "segoods"
   },
   {
     "id": 56,
     "title": "캠핑 냉장고",
     "content": "냉장고",
     "price": 580000,
-    "detail" : "캠핑 냉장고_상세페이지"
+    "detail" : "캠핑 냉장고_상세페이지",
+     "category" : "segoods"
   },
   {
     "id": 57,
     "title": "워터 저그",
     "content": "워터저그",
     "price": 65000,
-    "detail" : "워터 저그_상세페이지"
+    "detail" : "워터 저그_상세페이지",
+     "category" : "segoods"
   },
   {
     "id": 58,
     "title": "소프트 쿨러",
     "content": "쿨러",
     "price": 40000,
-    "detail" : "소프트 쿨러_상세페이지"
+    "detail" : "소프트 쿨러_상세페이지",
+     "category" : "segoods"
   },
   {
     "id": 59,
     "title": "캠핑 냉동고",
     "content": "냉동고",
     "price": 700000,
-    "detail" : "캠핑 냉동고_상세페이지"
+    "detail" : "캠핑 냉동고_상세페이지",
+     "category" : "segoods"
   }
 ]
