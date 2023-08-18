@@ -85,56 +85,64 @@
     "title": "폴딩테이블",
     "content": "테이블",
     "price": 70000,
-    "detail" : "폴딩테이블_상세페이지"
+    "detail" : "폴딩테이블_상세페이지",
+    "keyword" : "table"
   },
   {
     "id": 11,
     "title": "우드테이블",
     "content": "테이블",
     "price": 90000,
-    "detail" : "우드페이블_상세페이지"
+    "detail" : "우드페이블_상세페이지",
+    "keyword" : "table"
   },
   {
     "id": 12,
     "title": "텍티컬테이블",
     "content": "테이블",
     "price": 150000,
-    "detail" : "텍티컬테이블_상세페이지"
+    "detail" : "텍티컬테이블_상세페이지",
+    "keyword" : "table"
   },
   {
     "id": 13,
     "title": "엔드테이블",
     "content": "테이블",
     "price": 140000,
-    "detail" : "엔드테이블_상세페이지"
+    "detail" : "엔드테이블_상세페이지",
+    "keyword" : "table"
   },
   {
     "id": 14,
     "title": "우드 파이어 테이블",
     "content": "테이블",
     "price": 180000,
-    "detail" : "우드 파이어_상세페이지"
+    "detail" : "우드 파이어_상세페이지",
+    "keyword" : "table"
   },
   {
     "id": 15,
     "title": "메쉬테이블",
     "content": "테이블",
     "price": 110000,
-    "detail" : "메쉬테이블_상세페이지"
+    "detail" : "메쉬테이블_상세페이지",
+    "keyword" : "table"
   },
   {
     "id": 16,
     "title": "BBQ테이블",
     "content": "테이블",
     "price": 500000,
-    "detail" : "BBQ테이블_상세페이지"
+    "detail" : "BBQ테이블_상세페이지",
+    "keyword" : "table"
   },
   {
     "id": 17,
     "title": "우드 롤테이블",
     "content": "테이블",
     "price": 60000,
-    "detail" : "우드 롤테이블_상세페이지"
+    "detail" : "우드 롤테이블_상세페이지",
+    "keyword" : "table"
   },
   {
     "id": 18,
