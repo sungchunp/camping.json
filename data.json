@@ -200,9 +200,8 @@
     "detail" : "피크닉 체어_상세페이지",
      "category" : "chair"
   },
-  
   {
-    "id": 29,
+    "id": 25,
     "title": "LED 핸드램프",
     "content": "조명",
     "price": 90000,
@@ -210,7 +209,7 @@
      "category" : "lamp"
   },
   {
-    "id": 30,
+    "id": 26,
     "title": "LED 크레모아",
     "content": "조명",
     "price": 150000,
@@ -218,7 +217,7 @@
      "category" : "lamp"
   },
   {
-    "id": 31,
+    "id": 27,
     "title": "루메나 램프 조명",
     "content": "조명",
     "price": 80000,
@@ -226,15 +225,7 @@
      "category" : "lamp"
   },
   {
-    "id": 32,
-    "title": "LED 해드랜턴",
-    "content": "조명",
-    "price": 100000,
-    "detail" : "LED 해드랜턴_상세페이지",
-     "category" : "lamp"
-  },
-  {
-    "id": 33,
+    "id": 28,
     "title": "비바로드 LED 스트링가드",
     "content": "조명",
     "price": 30000,
@@ -242,7 +233,7 @@
      "category" : "lamp"
   },
   {
-    "id": 34,
+    "id": 29,
     "title": "가스랜턴",
     "content": "조명",
     "price": 45000,
@@ -250,15 +241,7 @@
      "category" : "lamp"
   },
   {
-    "id": 35,
-    "title": "호롱불",
-    "content": "조명",
-    "price": 40000,
-    "detail" : "호롱불_상세페이지",
-     "category" : "lamp"
-  },
-  {
-    "id": 36,
+    "id": 30,
     "title": "LED 캡라이트 캡온",
     "content": "조명",
     "price": 30000,
