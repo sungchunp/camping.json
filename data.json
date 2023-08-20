@@ -200,38 +200,7 @@
     "detail" : "피크닉 체어_상세페이지",
      "category" : "chair"
   },
-  {
-    "id": 25,
-    "title": "미니 릴렉스 체어",
-    "content": "체어",
-    "price": 30000,
-    "detail" : "미니 릴렉스 체어_상세페이지",
-     "category" : "chair"
-  },
-  {
-    "id": 26,
-    "title": "로우체어",
-    "content": "체어",
-    "price": 40000,
-    "detail" : "로우체어_상세페이지",
-     "category" : "chair"
-  },
-  {
-    "id": 27,
-    "title": "와이드 BBQ 체어",
-    "content": "체어",
-    "price": 29800,
-    "detail" : "와이드 BBQ 체어_상세페이지",
-     "category" : "chair"
-  },
-  {
-    "id": 28,
-    "title": "알파슬림 체어",
-    "content": "체어",
-    "price": 15000,
-    "detail" : "알파슬림 체어_상세페이지",
-     "category" : "chair"
-  },
+  
   {
     "id": 29,
     "title": "LED 핸드램프",
