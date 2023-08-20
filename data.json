@@ -266,22 +266,6 @@
   },
   {
     "id": 33,
-    "title": "헥사 바베큐 그릴",
-    "content": "화로",
-    "price": 450000,
-    "detail" : "헥사 바베규 그릴_상세페이지",
-     "category" : "brazier"
-  },
-  {
-    "id": 34,
-    "title": "레귤레이터 스토브",
-    "content": "화로",
-    "price": 120000,
-    "detail" : "레귤레이터 스토브_상세페이지",
-     "category" : "brazier"
-  },
-  {
-    "id": 35,
     "title": "디펜스 스토브",
     "content": "화로",
     "price": 50000,
@@ -289,23 +273,7 @@
      "category" : "brazier"
   },
   {
-    "id": 36,
-    "title": "윈드마스터 스토브",
-    "content": "화로",
-    "price": 170000,
-    "detail" : "윈드마스터 스토브_상세페이지",
-     "category" : "brazier"
-  },
-  {
-    "id": 37,
-    "title": "자이언트 스토브",
-    "content": "화로",
-    "price": 220000,
-    "detail" : "자이언트 스토브_상세페이지",
-     "category" : "brazier"
-  },
-  {
-    "id": 38,
+    "id": 34,
     "title": "트윈 스토브",
     "content": "화로",
     "price": 150000,
@@ -313,7 +281,7 @@
      "category" : "brazier"
   },
   {
-    "id": 39,
+    "id": 35,
     "title": "미니 버너",
     "content": "화로",
     "price": 45000,
@@ -321,23 +289,7 @@
      "category" : "brazier"
   },
   {
-    "id": 40,
-    "title": "참숯",
-    "content": "숯",
-    "price": 30000,
-    "detail" : "참숯_상세페이지",
-     "category" : "brazier"
-  },
-  {
-    "id": 41,
-    "title": "참나무 장작",
-    "content": "장작",
-    "price": 12000,
-    "detail" : "참나무 장작_상세페이지",
-     "category" : "brazier"
-  },
-  {
-    "id": 42,
+    "id": 36,
     "title": "이소가스",
     "content": "이소가스",
     "price": 3000,
@@ -345,7 +297,7 @@
      "category" : "brazier"
   },
   {
-    "id": 43,
+    "id": 37,
     "title": "부탄가스",
     "content": "부탄가스",
     "price": 2000,
@@ -353,23 +305,7 @@
      "category" : "brazier"
   },
   {
-    "id": 44,
-    "title": "고체연료",
-    "content": "고체연료",
-    "price": 7500,
-    "detail" : "고체연료_상세페이지",
-     "category" : "brazier"
-  },
-  {
-    "id": 45,
-    "title": "오로라 파이어",
-    "content": "가루",
-    "price": 4000,
-    "detail" : "오로라 파이어_상세페이지",
-     "category" : "brazier"
-  },
-  {
-    "id": 46,
+    "id": 38,
     "title": "멀티팬",
     "content": "선풍기",
     "price": 130000,
@@ -377,7 +313,7 @@
      "category" : "segoods"
   },
   {
-    "id": 47,
+    "id": 39,
     "title": "크레모아 서큘레이터",
     "content": "서큘레이터",
     "price": 48000,
@@ -385,7 +321,7 @@
      "category" : "segoods"
   },
   {
-    "id": 48,
+    "id": 40,
     "title": "아이스쿨러",
     "content": "쿨러",
     "price": 180000,
@@ -393,7 +329,7 @@
      "category" : "segoods"
   },
   {
-    "id": 49,
+    "id": 41,
     "title": "캠핑 냉동고",
     "content": "냉동고",
     "price": 700000,
@@ -401,7 +337,7 @@
      "category" : "segoods"
   },
   {
-    "id": 50,
+    "id": 42,
     "title": "캠핑 냉장고",
     "content": "냉장고",
     "price": 580000,
@@ -409,7 +345,7 @@
      "category" : "segoods"
   },
   {
-    "id": 51,
+    "id": 43,
     "title": "워터 저그",
     "content": "워터저그",
     "price": 65000,
@@ -417,7 +353,7 @@
      "category" : "segoods"
   },
   {
-    "id": 52,
+    "id": 44,
     "title": "소프트 쿨러",
     "content": "쿨러",
     "price": 40000,
@@ -425,7 +361,7 @@
      "category" : "segoods"
   },
   {
-    "id": 53,
+    "id": 45,
     "title": "캠핑 냉동고",
     "content": "냉동고",
     "price": 700000,
@@ -433,7 +369,7 @@
      "category" : "segoods"
   },
   {
-    "id": 54,
+    "id": 46,
     "title": "코펠 세트",
     "content": "코펠",
     "price": 150000,
@@ -441,7 +377,7 @@
      "category" : "cookware"
   },
   {
-    "id": 55,
+    "id": 47,
     "title": "우드 플레이트",
     "content": "플레이트",
     "price": 40000,
@@ -449,7 +385,7 @@
      "category" : "cookware"
   },
   {
-    "id": 56,
+    "id": 48,
     "title": "양념통 세트",
     "content": "양념통",
     "price": 25000,
@@ -457,7 +393,7 @@
      "category" : "cookware"
   },
   {
-    "id": 57,
+    "id": 49,
     "title": "와이드 행어",
     "content": "행어",
     "price": 90000,
@@ -465,7 +401,7 @@
      "category" : "cookware"
   },
   {
-    "id": 58,
+    "id": 50,
     "title": "설거지 가방",
     "content": "설거지 가방",
     "price": 20000,
@@ -473,7 +409,7 @@
      "category" : "cookware"
   },
   {
-    "id": 59,
+    "id": 51,
     "title": "커틀러리 세트",
     "content": "커틀러리",
     "price": 30000,
@@ -481,7 +417,7 @@
      "category" : "cookware"
   },
   {
-    "id": 60,
+    "id": 52,
     "title": "키친툴 세트",
     "content": "키친툴",
     "price": 24000,
@@ -489,7 +425,7 @@
      "category" : "cookware"
   },
   {
-    "id": 61,
+    "id": 53,
     "title": "해머",
     "content": "해머",
     "price": 24000,
@@ -497,7 +433,7 @@
      "category" : "accessory"
   },
   {
-    "id": 62,
+    "id": 54,
     "title": "야전삽",
     "content": "삽",
     "price": 35000,
@@ -505,7 +441,7 @@
      "category" : "accessory"
   },
   {
-    "id": 63,
+    "id": 55,
     "title": "멀티툴",
     "content": "멀티툴",
     "price": 75000,
@@ -513,7 +449,7 @@
      "category" : "accessory"
   },
   {
-    "id": 64,
+    "id": 56,
     "title": "도끼",
     "content": "도끼",
     "price": 40000,
@@ -521,7 +457,7 @@
      "category" : "accessory"
   },
   {
-    "id": 65,
+    "id": 57,
     "title": "카라비너",
     "content": "카라비너",
     "price": 4500,
